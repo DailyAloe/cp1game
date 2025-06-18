@@ -14,7 +14,7 @@ bookImage = pygame.transform.scale(bookImage, (70,70))
 
 sulImage = pygame.image.load('C:/Users/Administrator/Downloads/sul.png')
 sulImage = pygame.transform.scale(sulImage, (70,70))
-pygame.display.set_caption("Major Book For You") #배경화면도 깃허브에 올려줘야함
+pygame.display.set_caption("Major Book For You") #배경화면도 깃허브에 올리기
 
 #변수
 #font = pygame.font.Font(None, 36) <- 한글깨짐..
